@@ -1,0 +1,6 @@
+customer_id,x_coord,y_coord,time_window_start,time_window_end,quantity
+1,10,20,900,1000,5
+2,15,25,930,1030,3
+3,20,30,1000,1100,2
+4,25,35,1030,1130,7
+5,30,40,1100,1200,4

@@ -1,0 +1,2 @@
+KPI data generation is limited due to instability in detailed solution extraction.
+Objective value from solver: 102
